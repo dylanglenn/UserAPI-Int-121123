@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: User API
   version: 1.0.0
-  description: An even better description
+  description: An even betterer description
 paths:
   /v1/users/register:
     post:
